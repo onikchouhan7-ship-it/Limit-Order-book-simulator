@@ -1,3 +1,43 @@
+
+# Compiled C++ executables
+*.exe
+*.out
+test_runner
+bridge
+
+# Object files and debug artifacts
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
 # Prerequisites
 *.d
 
