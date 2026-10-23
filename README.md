@@ -186,11 +186,3 @@ This project explores:
 ## Disclaimer
 
 This project is an educational simulator. It is not connected to a live exchange and is not intended for real-money trading.
-
-## Author
-
-Developed as a systems-programming and market-microstructure learning project.
-=======
-
->>>>>>> acee484 (project 2 is ready)
-
