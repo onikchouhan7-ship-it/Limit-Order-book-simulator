@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C++ Limit Order Book Simulator
 
 A limit order book simulator built with **C++ and Python**, featuring price-time priority matching, partial order fills, market and limit orders, trade analytics, and an interactive Streamlit dashboard.
@@ -189,4 +190,7 @@ This project is an educational simulator. It is not connected to a live exchange
 ## Author
 
 Developed as a systems-programming and market-microstructure learning project.
+=======
+
+>>>>>>> acee484 (project 2 is ready)
 
